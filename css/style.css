@@ -183,6 +183,13 @@ footer{
 .flag img{
     width: 30px;
 }
+.apps{
+    color: white;
+}
+.apps i{
+    font-size: 20px;
+    margin-right: 20px;
+}
 .title-ul{
     color: #7aa0ff;
     font-weight: 600;
