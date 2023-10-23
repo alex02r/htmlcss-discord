@@ -141,6 +141,9 @@ header{
     font-size: 18px;
     line-height: 1.6;
 }
+.content img{
+    width: 100%;
+}
 /* center last content */
 .center-all{
     display: flex;
