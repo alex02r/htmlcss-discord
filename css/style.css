@@ -58,11 +58,32 @@
 .col-50{
     width: 50%;
 }
+
 /* HEADER */
 header{
-    background-color: lightskyblue;
+    background-color: #3161E0;
 }
-
+.content ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+.content li{
+    color: white;
+    font-weight: 600;
+}
+.f-end{
+    display: flex;
+    justify-content: flex-end;
+}
+.btn-white{
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+    border: none;
+    font-size: 16px;
+    font-weight: 600;
+}
 /* MAIN */
 
 /* FOOTER */
