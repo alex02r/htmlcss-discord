@@ -81,6 +81,9 @@
 header{
     background-color: #255ee9;
 }
+.logo{
+    width: 60%;
+}
 .content ul{
     display: flex;
     justify-content: space-between;
