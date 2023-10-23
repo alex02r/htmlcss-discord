@@ -58,48 +58,6 @@
 .col-50{
     width: 50%;
 }
-/* Height */
-.height-50{
-    height: 50px;
-}
-.height-500{
-    height: 500px;
-}
-.height-600{
-    height: 600px;
-}
-.height-900{
-    height: 900px;
-}
-/* Set background */
-.bg-orange{
-    background-color: rgb(255, 217, 0);;
-}
-.bg-blue{
-    background-color: blue;
-}
-.bg-gray{
-    background-color: lightgrey;
-}
-.bg-darkpink{
-    background-color: rgb(255, 134, 227);
-}
-.bg-pink{
-    background-color: pink;
-}
-.bg-lightblue{
-    background-color: deepskyblue;
-}
-.bg-green{
-    background-color: green;
-}
-.bg-orange{
-    background-color: coral;
-}
-.bg-aquamarine{
-    background-color: aquamarine;
-}
-
 /* HEADER */
 header{
     background-color: lightskyblue;
